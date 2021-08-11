@@ -1,0 +1,10 @@
+When should we use a databasae??
+      Anytime you want to store data anywhere
+      
+Difference between relational and non relational databases
+      relational databases use columns and rows like a spreadsheet while non relational databases dont use rows or columns. It uses a different model for data storage
+      
+What are some of the datatypes in postgressql??
+      characters, numericals, binaries, monetary
+      we use them depending on what kind of data we want to add or access
+      
